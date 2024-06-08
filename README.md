@@ -5,7 +5,7 @@ This project demonstrates the use of Convolutional Neural Networks (CNNs) for im
 The dataset used is the Intel Image Classification dataset, which consists of images belonging to six categories:
 buildings, forest, glacier, mountain, sea, and street.
 
-# steps:
+# steps: 
 * Data Loading and Preprocessing: Loads the dataset and preprocesses the images for training, testing, and prediction.
 * Model Creation: Defines a CNN model using Keras with various convolutional and pooling layers followed by dense layers.
 * Model Training: Trains the CNN model on the training data to learn the features of different image categories.
